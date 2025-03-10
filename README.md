@@ -45,6 +45,3 @@ Este es un bot de Discord diseñado para gestionar roles, registrar eventos en e
 - Al iniciar el bot, sincronizará los comandos de la aplicación y estará listo para gestionar roles y tickets.
 - Para enviar el mensaje de bienvenida o el mensaje de tickets, usa los comandos `/welcome_message` y `/ticket_message`.
 
-## Contacto
-Si tienes dudas o problemas, abre un ticket en Hyaxe Roleplay o contáctanos en Discord.
-
